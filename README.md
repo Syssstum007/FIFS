@@ -1,12 +1,26 @@
 # 🏏 FIFS Sports Data Gameathon – Fantasy Sports AI/ML Strategy
 
+<table>
+<tr>
+<td width="65%">
+
 Welcome to our submission for the **FIFS Sports Data Gameathon**, a premier AI/ML modelling competition organized by the **Federation of Indian Fantasy Sports (FIFS)** in collaboration with the **Ministry of Information & Broadcasting (MIB)**. This hackathon is aimed at developing data-driven strategies for a **season-long Fantasy Sports Contest** using real-world sports data and innovative machine learning techniques.
 
----
+<br/>
 
 ## 🏆 About the Competition
 
 The **FIFS Sports Data Gameathon** is a cutting-edge initiative to engage India’s top technological minds in crafting AI/ML-powered solutions for the Fantasy Sports ecosystem. Participants are challenged to use historical and live sports data to create models that can enhance prediction accuracy, strategic team selection, and user engagement throughout a fantasy league season.
+
+</td>
+<td align="center">
+
+<img src="images/Virat Kohli.png" alt="Virat Kohli" width="300"/>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
