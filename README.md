@@ -1,4 +1,4 @@
-# 🏏 FIFS Sports Data Gameathon – Fantasy Sports AI/ML Strategy
+# 🏏 FIFS Sports Data Gameathon 2.0 – Fantasy Sports AI/ML Strategy
 
 <table>
 <tr>
@@ -10,7 +10,7 @@ Welcome to our submission for the **FIFS Sports Data Gameathon**, a premier AI/M
 
 ## 🏆 About the Competition
 
-The **FIFS Sports Data Gameathon** is a cutting-edge initiative to engage India’s top technological minds in crafting AI/ML-powered solutions for the Fantasy Sports ecosystem. Participants are challenged to use historical and live sports data to create models that can enhance prediction accuracy, strategic team selection, and user engagement throughout a fantasy league season.
+The **FIFS Sports Data Gameathon** is a cutting-edge initiative to engage India’s top technological minds in crafting AI/ML-powered solutions for the Fantasy Sports ecosystem. Participants are challenged to use historical and live sports data to create models that can enhance prediction accuracy, strategic team selection, and user engagement throughout a fantasy league season. **Gameathon 2.0 was focused on IPL 2025**.
 
 </td>
 <td align="center">
